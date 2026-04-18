@@ -51,5 +51,3 @@ This leads to fragmented data across systems — creating **data silos**.
    Policies and standards to ensure data quality and accessibility  
 
 ---
-
-## (Optional) Diagram
